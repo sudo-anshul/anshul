@@ -4,7 +4,7 @@ I'm a passionate student currently pursuing my B.Tech in AI and Data Science. We
 
 ## 📚 About Me
 
-- 🎓 **Education:** B.Tech in AI and Data Science (Your University/College Name)
+- 🎓 **Education:** B.Tech in AI and Data Science
 - 🌐 **Website:** [Web Portfolio](https://anshulkushwaha.com)
 - 📫 **Contact:** [Email](mailto:connect.anshulkushwaha@outlook.com) | [LinkedIn](https://www.linkedin.com/in/anshul-kushwaha/)
 - 😄 **Pronouns:** He/Him
@@ -20,7 +20,6 @@ Here are a few projects that I've worked on:
 
 1. [ReliaWealth Manager](): Private project.
 2. [CI/CD Demostration](https://github.com/sudo-anshul/ci-cd-pipeline-demo): This project demonstrates the setup and implementation of a Continuous Integration and Continuous Deployment (CI/CD) pipeline for automating the build and deployment process of a sample web application.
-   <!-- Add more projects as needed -->
 
 ## 🌱 Currently Learning
 
@@ -28,7 +27,7 @@ I'm currently focused on enhancing my skills in:
 
 - Machine Learning Interpretability
 - Natural Language Processing
-- (Any other areas or technologies you are currently learning)
+
 
 ## 🤝 Let's Connect
 
